@@ -1,0 +1,7 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  min-height: 81vh;
+  background-color: var(--bg-color);
+  color: var(--neon-color);
+}
